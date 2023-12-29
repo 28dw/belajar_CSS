@@ -1,0 +1,9 @@
+a:hover {
+  color: blueviolet;
+  text-decoration: underline;
+}
+
+li:nth-child(odd) {
+  background-color: brown;
+  padding: 5px;
+}

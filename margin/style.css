@@ -1,0 +1,12 @@
+.contoh {
+  margin-top: 200px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+  margin-left: 200px;
+}
+.contoh h1 {
+  width: 500px;
+  height: 500px;
+  color: chocolate;
+  background-color: black;
+}

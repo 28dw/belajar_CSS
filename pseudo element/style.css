@@ -1,0 +1,9 @@
+.special-text::before {
+  content: "start: ";
+  font-weight: bold;
+}
+
+.special-text::after {
+  content: " :end";
+  font-weight: bold;
+}

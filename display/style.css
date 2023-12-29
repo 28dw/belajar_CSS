@@ -1,0 +1,14 @@
+.block-elemen {
+  display: block;
+  background-color: black;
+  color: aqua;
+  padding: 10px;
+  margin: 10px;
+}
+.inline-elemen {
+  display: inline;
+  background-color: gray;
+  color: black;
+  padding: 5px;
+  margin: 5px;
+}
